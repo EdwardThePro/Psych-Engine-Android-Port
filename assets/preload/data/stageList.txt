@@ -6,3 +6,5 @@ mall
 mallEvil
 school
 schoolEvil
+template1
+template2
