@@ -11,11 +11,7 @@ parents-christmas
 monster-christmas
 bf-christmas
 gf-christmas
-monster
-bf-pixel
-gf-pixel
-senpai
-senpai-angry
-spirit
-bf-pixel-opponent
-pico-player
+hypno
+hypno-two
+gold
+hank
