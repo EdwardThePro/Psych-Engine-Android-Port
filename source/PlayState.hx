@@ -394,7 +394,7 @@ class PlayState extends MusicBeatState
 					add(stageCurtains);
 				}
                         
-                        case 'template1': //Week 1
+                        case 'template2': //Week 1
 				var template2:BGSprite = new BGSprite('template2', -600, -200, 0.9, 0.9);
 				add(template2);
 
